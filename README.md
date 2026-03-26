@@ -42,4 +42,59 @@ Its goal is to **collect, organize, and share** what I have learned in financial
    - Regression and time series fundamentals  
 
 8. **Machine Learning (ML)**  
-   - ML concepts for finance will be covered **in a separate repository**  
+   - ML concepts for finance will be covered **in a separate repository**
+
+## Structure
+Finance-Foundation/
+├─ macro_econ/           
+│   ├─ GDP.md
+│   ├─ Inflation.md
+│   ├─ Interest_Rates.md
+│   └─ Monetary_Fiscal_Policy.md
+├─ micro_econ/           
+│   ├─ Supply_Demand.md
+│   ├─ Market_Structures.md
+│   └─ Elasticity.md
+├─ accounting_finance/   
+│   ├─ Income_Statement.md
+│   ├─ Balance_Sheet.md
+│   ├─ Cash_Flow_Statement.md
+│   ├─ Revenue_Model.md
+│   ├─ Gross_Operating_Net_Margin.md
+│   ├─ Free_Cash_Flow.md
+│   ├─ Debt_Leverage.md
+│   ├─ ROE_ROIC.md
+│   ├─ ROIC_vs_Cost_of_Capital.md
+│   └─ Economic_Moat.md
+├─ valuation/            
+│   ├─ P_E.md
+│   ├─ EV_EBITDA.md
+│   ├─ PEG.md
+│   └─ DCF_Basic.md
+├─ corporate_strategy/   
+│   ├─ Network_Effect.md
+│   ├─ Switching_Cost.md
+│   └─ Capital_Allocation.md
+├─ econometrics/        
+│   ├─ Regression_Basics.md
+│   └─ Time_Series_Basics.md
+├─ statistics/          
+│   ├─ Descriptive_Stats.md
+│   ├─ Probability.md
+│   ├─ Hypothesis_Testing.md
+│   └─ Correlation_Causation.md
+├─ machine_learning/     
+│   ├─ ML_Intro.md
+│   ├─ Regression_Models.md
+│   ├─ Classification_Models.md
+│   └─ Time_Series_Forecasting.md
+├─ risk_management/      
+│   ├─ Basics.md
+│   ├─ Value_at_Risk.md
+│   ├─ Stress_Testing.md
+│   └─ Hedging_Strategies.md
+├─ scripts/              
+│   └─ simple_scripts.py
+├─ notebooks/            
+│   └─ simple_ml.ipynb
+└─ README.md
