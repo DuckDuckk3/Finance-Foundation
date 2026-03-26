@@ -43,6 +43,3 @@ Its goal is to **collect, organize, and share** what I have learned in financial
 
 8. **Machine Learning (ML)**  
    - ML concepts for finance will be covered **in a separate repository**  
-
-├─ notebooks/            
-└─ README.md
